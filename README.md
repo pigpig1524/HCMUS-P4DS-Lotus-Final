@@ -6,6 +6,15 @@ In this project, we investigates the [Remote Work & Mental Health Dataset on Kag
 
 Our primary objective is to examine how working conditions impact employees' mental well-being and provide actionable, data-driven insights for organizations to enhance their work arrangement strategies.
 
+## Contributors
+
+Group information and task distribution
+
+| Student ID |    Full name    |       Tasks       |
+|------------|-----------------|-------------------|
+|  22120177  |  Van Tuan Kiet  | **Section 1.2** (License), **Section 3.1** (question number 1); Reviewing tasks, hosting Github repository |
+|  22120322  | Tong Trong Tam  | **Section 1.3** (Collection methods), **Section 2** (Data Exploration), **Section 3.3** (Question number 3) |
+|  22120457  |  Khuu Hai Chau  | **Section 1.1** (Dataset overview), **Section 3.2** (question number 2); Refining code structure, solving lexical issues |
 
 ## Project phases
 **Phase 1: Data Collection**
@@ -31,7 +40,7 @@ Our primary objective is to examine how working conditions impact employees' men
   * Genrally discuss phase 2 and brainstorm idea to adress them
 - **11/12/2024**
   * Wrap all of phase 2's tasks up 
-  * Merge (resolve conflict, if any ) pull reuqests related to phase 2
+  * Merge (resolve conflict, if any) pull reuqests related to phase 2
   * Genrally discuss phase 3 and brainstorm idea to adress them
 - **13/12/2024**
   * Merge (resolve conflict, if any ) pull reuqests related to phase 3
@@ -44,14 +53,9 @@ This is the first time we have drawn git flow. We kindly want to know if you hav
 
 ![](images/github_flow.jpg)
 
-## Contributors
+## References
+[1] Pandas documentation
 
-Group information and task distribution
+[2] Matplotlib documentation
 
-| Student ID |    Full name    |       Tasks       |
-|------------|-----------------|-------------------|
-|  22120177  |  Van Tuan Kiet  | **Section 1.2** (License), **Section 3.1** (question number 1); Reviewing tasks, hosting Github repository |
-|  22120322  | Tong Trong Tam  | **Section 1.3** (Collection methods), **Section 2** (Data Exploration), **Section 3.3** (Question number 3) |
-|  22120457  |  Khuu Hai Chau  | **Section 1.1** (Dataset overview), **Section 3.2** (question number 2); Refining code structure, solving lexical issues |
-
-Once again,thanks so much for your dedication, my team! ❤️
+[3] data uncollected, [*Asking good questions to data*](https://www.linkedin.com/pulse/asking-good-questions-data-meenakshi-meena-das/)
